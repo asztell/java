@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartTrucker</string>
+    <string name="dummy_button">I love my Gugi!!</string>
+    <string name="dummy_content">I LOVE MY GUGI!!!</string>
+    <string name="button">Button</string>
+
+</resources>

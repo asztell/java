@@ -1,0 +1,6 @@
+INDEX VERSION 1.126 OT2+/home/krutoy/Documents/github/java/CS55/SmartTrucker2/.metadata/.plugins/org.eclipse.jdt.core
+3730609112.index
+2143543931.index
+2987544222.index
+3899092473.index
+264949466.index

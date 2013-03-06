@@ -1,0 +1,10 @@
+INDEX VERSION 1.126 OT2+/home/krutoy/Documents/github/java/CS55/.metadata/.plugins/org.eclipse.jdt.core
+3899092473.index
+430715096.index
+4142941732.index
+3873244783.index
+1102748274.index
+3730609112.index
+4108683380.index
+2987544222.index
+264949466.index
