@@ -82,9 +82,9 @@ public class CreditCardValidator
 			validateCard();
 		}
 		else if(continueOrNot == 1 || continueOrNot == 2)
-	    {
+		{
 			again = false;
-	    }
+		}
 
 		return again;
 	}
